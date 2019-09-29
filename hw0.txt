@@ -1,3 +1,6 @@
 # Description of your program (part 7)
+To count the words, you can create an index counter of the number of spaces in the document. IN order to do that, first open the file. Then create a variable as 0 and then iterate through every character and when there is a space, the variable will increase by one. After iterating through the full document, the variable will come out to the number of words in the document.
 
 # Reflection on writing your program (part 8)
+It was kind of intuitive to figure out a pattern to initialize a variable to count the spaces but it was kind of difficult to describe because I haven't coded in almost two years so I forgot a lot of the code language and how to aptly describe my steps. It is also hard to try to be as specific as possible because I wasn't sure if my directions would make sense to other people other than myself. 
+I'm hoping to learn more and be more comfortable in coding and hopefully learn how to code websites and apps so I can create viable projects. I also hope to gain confidence in coding and spark an interest in coding. 
